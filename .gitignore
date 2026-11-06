@@ -1,0 +1,9 @@
+.idea/
+.venv/
+1_correct_easy
+2_correct_medium
+3_correct_hard
+4_errors_easy
+5_errors_medium
+6_errors_hard
+*.txt
